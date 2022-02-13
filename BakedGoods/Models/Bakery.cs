@@ -27,7 +27,21 @@ namespace Bakery.Logic
     {
         public static int costOfPastry(int pastryCount)
         {
-            return pastryCount * 2;
+           int pastryCost = 0;
+           for (int pastries = 0; pastries <= pastryCount; pastries++)
+           if (pastries%3 == 1)
+           {
+               pastryCost += 5;
+           }
+           else if (pastries%3 == 2)
+           {
+               pastryCost +=5;
+           }
+           else if (pastries%3 == 0)
+           {
+               pastryCost +=0;
+           }
+           return pastryCost;
         }
     }
 }
