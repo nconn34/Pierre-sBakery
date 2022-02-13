@@ -1,8 +1,3 @@
-C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.csproj.AssemblyReference.cache
-C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.AssemblyInfoInputs.cache
-C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.AssemblyInfo.cs
-C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.csproj.CoreCompileInputs.cache
 C:\Users\Nathan\Desktop\thebakery\BakedGoods\bin\Debug\net5.0\BakedGoods.exe
 C:\Users\Nathan\Desktop\thebakery\BakedGoods\bin\Debug\net5.0\BakedGoods.deps.json
 C:\Users\Nathan\Desktop\thebakery\BakedGoods\bin\Debug\net5.0\BakedGoods.runtimeconfig.json
@@ -10,6 +5,11 @@ C:\Users\Nathan\Desktop\thebakery\BakedGoods\bin\Debug\net5.0\BakedGoods.runtime
 C:\Users\Nathan\Desktop\thebakery\BakedGoods\bin\Debug\net5.0\BakedGoods.dll
 C:\Users\Nathan\Desktop\thebakery\BakedGoods\bin\Debug\net5.0\ref\BakedGoods.dll
 C:\Users\Nathan\Desktop\thebakery\BakedGoods\bin\Debug\net5.0\BakedGoods.pdb
+C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.csproj.AssemblyReference.cache
+C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.AssemblyInfoInputs.cache
+C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.AssemblyInfo.cs
+C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.csproj.CoreCompileInputs.cache
 C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.dll
 C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\ref\BakedGoods.dll
 C:\Users\Nathan\Desktop\thebakery\BakedGoods\obj\Debug\net5.0\BakedGoods.pdb
