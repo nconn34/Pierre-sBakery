@@ -8,6 +8,27 @@ namespace PierresBakery
           public static void Main()
      {
          Console.WriteLine("Welcome to Pierre's Bakery!");
+         Console.Write("Which would you like today? Type 'b' for bread or 'p' for pastry: ");
+         string choice = Console.ReadLine();
+         string decision = choice.ToLower();
+         if (decision == "b")
+         {
+             Console.WriteLine("How many loaves of bread would you like? ");
+             int loafCount = int.Parse(Console.ReadLine());
+             int total = Bread.costOfBread(loafCount);
+             Console.WriteLine(total);
+         }
+         else if (decision == "p")
+         {
+            Console.WriteLine("How many pastries would you like? ");
+             int pastryCount = int.Parse(Console.ReadLine());
+             int total = Pastry.costOfPastry(pastryCount);
+             Console.WriteLine(total);
+         }
+         else
+         {
+             Console.WriteLine("Goodbye!");
+         }
      }
     }
 }
